@@ -1,8 +1,8 @@
 # Packet-Routing-using-Dijkstra-s-Algorithm
 
-Simulation of Network Routing using Socket Programming
+## Simulation of Network Routing using Socket Programming
 
-Routing the packet from Server connected to port 2001 to Client listening to port 8000 using the shortest path
+Routing the packet from Server connected to a custom port to Client listening to port 8000 using the shortest path
 ![Screenshot (2207)](https://github.com/Sun-0321/Packet-Routing-using-Dijkstra-s-Algorithm/assets/76857995/72079c77-f838-4005-a084-663e60112be0)
 
 (Clear View of Proxies or Routers)
